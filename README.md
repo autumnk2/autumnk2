@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Autumn
 - 👀 I’m interested in Computer Science and Linguistics
-- 🌱 I’m currently learning Python and Machine Learning
+- 🌱 I’m currently learning Java and Python
